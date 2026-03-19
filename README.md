@@ -43,6 +43,28 @@ MongoDB (if database connected)
 
 Mongoose (optional)
 
+Tech Used
+
+React
+
+JavaScript
+
+HTML
+
+CSS
+
+Future Improvements
+
+More React projects
+
+Advanced Hooks
+
+API Integration
+
+Routing
+
+State Management
+
 How It Works
 
 User interacts with the frontend (form or button click).
