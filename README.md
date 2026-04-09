@@ -112,4 +112,4 @@ Handling asynchronous requests
 
 Managing JSON data
 
-Basic full-stack development workflow
+Basic full-stack development workflow.
